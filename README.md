@@ -1,1 +1,1 @@
-This is my journey as a student of the Power Learn Project. I will be learning web development. 
+This is my journey as a student of the Power Learn Project. On this repo, I will be learning web development. 
